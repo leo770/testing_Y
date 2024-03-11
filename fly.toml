@@ -3,7 +3,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'comp7940-lab-chatbot-dawn-grass-2070-icy-dream-4131'
+app = 'chatbot002'
 primary_region = 'hkg'
 
 [build]
